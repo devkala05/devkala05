@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Dev!
+# Hi, I'm Dev!
 
 **👨‍💻 2nd-year Engineering Student | Aspiring AI/ML Expert | Sketch Artist**  
 I’m currently pursuing a **Computer Science and Artificial Intelligence (CSAI)** degree at IIIT Delhi. My passions include AI, machine learning, UX/UI design, and creating projects that merge creativity and technology.  
