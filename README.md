@@ -22,8 +22,8 @@ I’m currently pursuing a **Computer Science and Artificial Intelligence (CSAI)
 
 ## 📈 My Stats
 
-![Dev's GitHub stats](https://github-readme-stats.vercel.app/api?username=devkala05&hide=stars&count_private=true&show_icons=true&theme=shadow_green)
-![Dev's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devkala05&theme=shadow_green&layout=compact)
+![Dev's Github Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=devkala05)
+![Dev's Most Used Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=devkala05&layout=compact)
 
 
 ---
