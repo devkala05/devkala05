@@ -20,12 +20,14 @@ I’m currently pursuing a **Computer Science and Artificial Intelligence (CSAI)
   
 ---
 
-## 📈 My Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&cache_seconds=1800)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark&cache_seconds=1800)
+## 📊 GitHub Activity
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=github-dark&hide_border=true)
+
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_USERNAME&theme=github_dark)
+
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YOUR_USERNAME&theme=github_dark)
+
 
 
 
