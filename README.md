@@ -15,8 +15,8 @@ I’m currently pursuing a **Computer Science and Artificial Intelligence (CSAI)
 
 ## 📫 Connect with Me  
 - 📧 Email: [dev23189@iiitd.ac.in](mailto:dev23189@iiitd.ac.in)  
-- 💼 LinkedIn: [Dev Sharma](https://www.linkedin.com/in/dev-sharma-iiitd/)  
-- 🎨 Instagram : [dev_kala_8](https://instagram.com/dev_kala_8)  
+- 💼 LinkedIn: [Dev](https://www.linkedin.com/in/dev-sharma-iiitd/)  
+- 🎨 Instagram : [encodingartist](https://instagram.com/encodingartist)  
   
 ---
 
